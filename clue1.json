@@ -1,3 +1,4 @@
 {
-  "second_clue": "Review the most recent transaction on the following wallet: `d6DS9s7XJs4CvzBBEbdEvyW8HY2GYbfpdT23WfJP3uq`."
+  "second_clue": "The transfer hook extension enables an allowlist, your token account must be on the allowlist to be able to reclaim the funds.",
+  "third_clue": "Review the most recent transaction on the following wallet: `d6DS9s7XJs4CvzBBEbdEvyW8HY2GYbfpdT23WfJP3uq`"
 }
